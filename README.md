@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning angular <br><br>
+I am a software engineering student currently working as a Fullstack Web Developer, specializing in Angular and Spring Boot. I am also an Oracle Certified Java SE 17 Developer. In addition to web development, I have experience in mobile application development, which I find equally exciting and rewarding. I like to describe myself as a hard worker, an enthusiastic individual, and a team player with an eye for detail. I am passionate about programming, eager to expand my expertise, and always excited to learn more. <br><br>
 
 
 ## 🌐 Socials:
